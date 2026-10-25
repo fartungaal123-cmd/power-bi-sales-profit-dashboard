@@ -38,3 +38,6 @@ Carretera generated the lowest total profit among the products. Further analysis
 
 ## Project Status
 The dashboard was created as a data analytics portfolio project to practice data visualization, KPI analysis, and business insight communication.
+## Dashboard Preview
+
+![Sales & Profit Performance Dashboard](dashboard.png)
